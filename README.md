@@ -1,10 +1,12 @@
-#Developing Stage
-##X□□□□□
+___Developing Stage___
+___X □ □ □ □ □___
 
     A navigation app based on flutter.
-    The interface and functions are from 
-###Persona 5. 
-    Take personality masks, enter the keyword of palace, then use this Metaverse Navigator go to another world.
+The interface and functions are from 
+**Persona 5.**
+    
+Take personality masks, enter the keyword of palace, 
+then use this Metaverse Navigator go to another world.
 
 
 
